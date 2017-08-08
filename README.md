@@ -13,7 +13,7 @@ I am using Python 3.6.1 for the project. You need to install the fllowing Python
 I have used Jupyter Notebook for the data exploration.
 
 # Code:
-The complete code is in the
+The complete code is in the 'HR_notebook.ipynb' file.
 
 # Data:
 You can see the data in 'HR_comma_sep.csv' file. 
