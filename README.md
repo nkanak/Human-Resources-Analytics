@@ -18,7 +18,7 @@ The complete code is in the 'HR_notebook.ipynb' file.
 # Data:
 You can see the data in 'HR_comma_sep.csv' file. 
 
-#To download the data please follow the link: 
+# To download the data please follow the link: 
 https://www.kaggle.com/ludobenistant/hr-analytics/downloads/human-resources-analytics.zip 
 
 These above file is in the .zip format. Please extract the files to get the .csv file out of it.
